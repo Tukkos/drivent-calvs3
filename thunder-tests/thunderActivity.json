@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "b641ec88-a8dc-4b9d-a6d9-f9965e82bc5a",
+    "colId": "history",
+    "containerId": "",
+    "name": "localhost:4000/hotels",
+    "url": "localhost:4000/hotels",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-11-23T18:44:41.466Z",
+    "modified": "2022-11-23T18:44:41.466Z",
+    "headers": [],
+    "params": [],
+    "tests": []
+  }
+]
